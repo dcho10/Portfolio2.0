@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "title": "Retail Lead",
+        "organization": "Toronto Blue Jays",
+        "year": "March 2023 - present",
+        "description": [
+            "Lead a team of 250 staff, manage people, resolve any issues between staff and/or customers",
+            "Conduct recruitment interviews for potential candidates",
+            "Scheduling and assigning staff duties for the day",
+            "Manage and maintain stock levels",
+            "Visual merchandising, setting up displays to enhance customer experience"
+        ]
+    },
+    {  
+        "id": "2",
+        "title": "Administrative Assistant",
+        "organization": "Hennes & Mauritz (H&M)",
+        "year": "March 2023 - present",
+        "description": [
+            "Opening all registers for the business day with correct starting float",
+            "Analyze previous day's sales reports and manually adjust any tills that were closed with incorrect cash amounts",
+            "Banking all sale money into sale safes (CAD and USD)"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Supervisor/Sales Coach",
+        "organization": "Hennes & Mauritz (H&M)",
+        "year": "July 2019 - March 2023",
+        "description": [
+            "Introduce and teach all new hires that come into the store (how to work at the store, daily routines)",
+            "Lead a department of 10-15 people to ensure staff are following proper routines and help the business succeed",
+            "Scheduling and assigning staff duties for the day",
+            "Analyze sales reports and strategize ideas to help business increase sales",
+            "Close registers at the end of the night (depositing all money, entering final cash amounts)"
+        ]
+    }
+]

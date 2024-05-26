@@ -1,0 +1,85 @@
+[
+    {
+        "id": "1",
+        "title": "Tech Blog",
+        "description": "This tech blog app was created on my own in an attempt to create a full app from front to back, and using my own API. When a user is on the home page, they will see all the posts that users have posted. They can view each post and it's interactions, and engage in them by commenting on them. Users can also create an account, and access their dashboard where they can view all their posts and check out the engagement on each. Future development includes searching for posts that a user would like to read more about.",
+        "url": "Tech-Blog",
+        "imageName":"./assets/projects/tech-blog.png",
+        "link": "https://david-tech-blog-e2d4633ea949.herokuapp.com/",
+        "madeWith": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Express",
+            "SQL"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Motor Matcher",
+        "description": "This car trading app was made in a collaborative effort, that has functionality from front to back. When a user is on the home page, they will be able to search for listings, or create an account to post a listing. When a user sees a listing that they are interested in, they would be able to communicate with the seller through email and be resposnbile for arranging their own payment methods.", 
+        "url": "motormatcher-app",
+        "imageName": "./assets/projects/motor-matcher.png",
+        "link": "https://motormatcher-app-42ee2ad0bce2.herokuapp.com/",
+        "madeWith": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Express",
+            "SQL"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Recipe App",
+        "description": "This recipe app was made in a collaborative effort, with the purpose of learning how to use APIs by using a third-party to start. The user would be able to search for a video recipe, create a recipe to share to other users, or search for a written recipe. Future development includes creating a more engaging home page for users to interact with.",
+        "url": "group-one-recipe-app",
+        "imageName": "./assets/projects/recipe-app.png",
+        "link": "https://dcho10.github.io/group-one-recipe-app/index.html",
+        "madeWith": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Weather Application",
+        "description": "This is my first attempt at using APIs. It uses a third-party API to fetch data. When the user is on the homepage, they would be able enter a city of their choosing to check the temperature and the 5-day forecast. Future development includes enhancing the user interface by adding the ability to favourite their cities.",
+        "url": "Weather-Application",
+        "imageName": "./assets/projects/weather-app.png",
+        "link": "https://dcho10.github.io/Weather-Application/",
+        "madeWith": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+            ]
+    },
+    {
+        "id": "5",
+        "title": "Note Taker",
+        "description": "This note taking app is used to demonstrate Express and how routing works. When a user is on the home page, they can get started and post notes on the page. Users would be able to see their notes, post their notes and delete their notes. Future development would include adding an edit function.",
+        "url": "Note-Taker",
+        "imageName": "./assets/projects/note-taker-app.png",
+        "link": "https://david-note-taking-app-485d125c3505.herokuapp.com/",
+        "madeWith": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Express"
+        ]
+    },
+    {
+        "id": "6",
+        "title": "Password Generator",
+        "description": "This random password generator app is meant for users who prefer not to have the same password be used across various sites, and would like to have their password generated randomly in order to better protect their accounts. Future development would include creating pop up prompts for the user to answer instead of alerts for a better UI.",
+        "url": "Password-Generator",
+        "imageName": "./assets/projects/password-generator.png",
+        "link": "https://dcho10.github.io/Password-Generator/",
+        "madeWith": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    }
+]
